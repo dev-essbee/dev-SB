@@ -1,12 +1,13 @@
 ### Hi fellow Earthlings! 👋
-- 😁 Glad you visited my profile, and I hope you will find whatever you are looking for here on Github.
-- 📛 My name is Shubham Bhandari. 
-- 😄 People also call me [this_is.sb](https://www.instagram.com/this_is.sb/) on Instagram and [this-is-sb](https://www.linkedin.com/in/this-is-sb/) on Linkedin
+- 📛 My name is **Shubham Bhandari**. 
 - 🏫 I'm currently persuing B.Tech. in Computer Science Engineering, and hopefully will get a degree🤞.
 - ❤️ Code is my 0th love, followed by food and animals.
 - 💻 If you have a data science or machine learning project, I may be your man.
 - ⚡ Fun fact: I prefer tabs over spaces.
+- 😄 People also call me [this_is.sb](https://www.instagram.com/this_is.sb/) on Instagram and [this-is-sb](https://www.linkedin.com/in/this-is-sb/) on Linkedin
 - 📫 You can reach me on dev.sb18@gmail.com. (For spammers: please don't bother emailing me)
+
+### Cheers!
 
 
 <!--
