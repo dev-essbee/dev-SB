@@ -1,6 +1,6 @@
 ### Hi fellow Earthlings! 👋
 - 📛 My name is **Shubham Bhandari**. 
-- 🏫 I'm currently persuing B.Tech. in Computer Science Engineering, and hopefully will get a degree🤞.
+- 🏫 I'm currently pursuing B.Tech. in Computer Science Engineering, and hopefully will get a degree🤞.
 - ❤️ Code is my 0th love, followed by food and animals.
 - 💻 If you have a data science or machine learning project, I may be your man.
 - ⚡ Fun fact: I prefer tabs over spaces.
