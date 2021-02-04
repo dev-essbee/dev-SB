@@ -175,13 +175,13 @@
 
 </td>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sb&layout=compact&hide=jupyter%20notebook,TeX&theme=radical&langs_count=6" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sb&layout=compact&hide=TeX&theme=radical&langs_count=6" align="left" style="width: 100%" />
 </td></tr></table>  
 <br/>
 
-[![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devsb&theme=radical&custom_title=Weekly%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devsb&theme=radical&custom_title=Weekly%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>  
+<br/>   -->
 
 <div align="left">
 
