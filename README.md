@@ -223,7 +223,7 @@
 
 </div>
 <div align="center">
-            <a href="https://paypal.me/dev.sb18@gmail.com" target="_blank" style="display: inline-block;">
+            <a href="https://www.paypal.me/devsb18" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"
                 />
