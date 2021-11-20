@@ -5,10 +5,10 @@
   <br/>
 <div align="left">
 
-- ## This is Shubham Bhandari, a final year undergrad from India.  
+- ## This is Shubham Bhandari  
   
 
-- 🏫 I'm currently pursuing B.Tech. in Computer Science Engineering, and hopefully will get a degree 🤞  
+- 🏫 Currently working as SDE-I at Hashedin By Deloitte.  
   
 
 - 💻 If you have a data science or machine learning project, I may be your man.  
@@ -133,9 +133,6 @@
 </a>
 <a href="https://www.kaggle.com/devsb13" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/this_is.sb" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@dev.sb18" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
