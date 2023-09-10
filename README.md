@@ -17,7 +17,7 @@
 - ⚡ Fun fact: I prefer tabs over spaces.  
   
 
-- 👨‍💻 To know more about me visit [DevSB](http://essbee.me)  
+- 👨‍💻 To know more about me visit [EssBee](http://essbee.me)  
   
 </div>
 <br/>  
