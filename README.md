@@ -8,7 +8,7 @@
 - ## This is Shubham Bhandari  
   
 
-- 🏫 Currently working as SDE-I at Hashedin By Deloitte.  
+- 🏫 Currently pursuing Masters in Data Science and Business Analytics at ESSEC Business School and CentraleSupélec.  
   
 
 - 💻 If you have a data science or machine learning project, I may be your man.  
@@ -17,7 +17,7 @@
 - ⚡ Fun fact: I prefer tabs over spaces.  
   
 
-- 👨‍💻 To know more about me visit [DevSB](http://devsb.me)  
+- 👨‍💻 To know more about me visit [DevSB](http://essbee.me)  
   
 </div>
 <br/>  
