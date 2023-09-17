@@ -33,36 +33,14 @@
 
 
 ### Programming Languages  
-<div align="center">  
-<img style="margin: 10px" src="./assets/skills/cplusplus-original.svg" alt="C++" height="50" />  
+<div align="center">   
 <img style="margin: 10px" src="./assets/skills/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="./assets/skills/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="./assets/skills/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="./assets/skills/c-original.svg" alt="C" height="50" />  
+
 </div>  
 
-
-
-### Frontend Development  
-<div align="center">  
-<img style="margin: 10px" src="./assets/skills/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="./assets/skills/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="./assets/skills/angularjs-original.svg" alt="AngularJS" height="50" />  
-<img style="margin: 10px" src="./assets/skills/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="./assets/skills/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="./assets/skills/android-original-wordmark.svg" alt="Android" height="50" />  
-</div>
 
 </td><td valign="top" width="33%">
-
-
-
-### Backend Development  
-<div align="center">  
-<img style="margin: 10px" src="./assets/skills/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
-<img style="margin: 10px" src="./assets/skills/flask.png" alt="Flask" height="50" />  
-<img style="margin: 10px" src="./assets/skills/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-</div>  
 
 
 
