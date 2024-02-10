@@ -146,11 +146,11 @@
 <table><tr>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-sb&show_icons=true&count_private=true&theme=radical&include_all_commits=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dev-essbee&show_icons=true&count_private=true&theme=radical&include_all_commits=true" align="left" style="width: 100%" />
 
 </td>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sb&layout=compact&hide=TeX&theme=radical&langs_count=6" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-essbee&layout=compact&hide=TeX&theme=radical&langs_count=6" align="left" style="width: 100%" />
 </td></tr></table>  
 <br/>
 
